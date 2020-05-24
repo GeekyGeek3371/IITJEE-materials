@@ -1,0 +1,19 @@
+.heading{
+	text-align: center;
+	font-size:40px;
+}
+body{
+	background-color: #dbdbdb;
+}
+
+.head{
+	text-align: center;
+	font-size:40px;
+}
+a:hover{
+	color: red;
+}
+h1{
+	text-align: center;
+	font-size:35px;
+}
